@@ -1,0 +1,56 @@
+body {
+font-family: 'Oswald', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+
+.img-responsive{
+  width: 12%;
+
+}
+
+span{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20pt;
+}
+
+
+header{
+  background-image: url('../img/bg-hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+
+header h1{
+  font-family: 'Oswald', sans-serif;
+  font-size: 200;
+}
+
+header h2{
+  font-size: 40pt;
+}
+.linea{
+  width: 25%;
+  height: 0pt;
+}
+
+.linea2{
+  width: 90%;
+  height: 0pt;
+}
+
+.carousel-indicators {
+top: 50px;
+}
+.carousel-indicators li {
+width: 10px;
+height: 10px;
+border-radius: 50%;
+}
+
+.logo{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20pt;
+}
